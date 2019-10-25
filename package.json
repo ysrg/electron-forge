@@ -130,7 +130,7 @@
     "log-symbols": "^2.0.0",
     "mime-types": "^2.1.17",
     "node-fetch": "^2.0.0",
-    "node-gyp": "^3.4.0",
+    "node-gyp": "git+https://github.com/nodejs/node-gyp.git#master",
     "nugget": "^2.0.1",
     "opn": "^5.0.0",
     "ora": "^2.0.0",
