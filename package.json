@@ -1,6 +1,6 @@
 {
-  "name": "electron-forge",
-  "version": "5.2.4",
+  "name": "@sergeymr/electron-forge",
+  "version": "5.2.7",
   "description": "A complete tool for building modern Electron applications",
   "repository": "https://github.com/electron-userland/electron-forge",
   "main": "dist/api/index.js",
@@ -130,7 +130,7 @@
     "log-symbols": "^2.0.0",
     "mime-types": "^2.1.17",
     "node-fetch": "^2.0.0",
-    "node-gyp": "git+https://github.com/nodejs/node-gyp.git#master",
+    "node-gyp": "https://registry.npmjs.org/@sergeymr/node-gyp/-/node-gyp-6.0.1.tgz",
     "nugget": "^2.0.1",
     "opn": "^5.0.0",
     "ora": "^2.0.0",
