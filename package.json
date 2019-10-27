@@ -1,6 +1,6 @@
 {
   "name": "@sergeymr/electron-forge",
-  "version": "5.2.7",
+  "version": "5.2.4-c",
   "description": "A complete tool for building modern Electron applications",
   "repository": "https://github.com/electron-userland/electron-forge",
   "main": "dist/api/index.js",
@@ -144,6 +144,9 @@
     "username": "^3.0.0",
     "yarn-or-npm": "^2.0.2",
     "zip-folder": "^1.0.0"
+  },
+  "resolutions": {
+    "**/node-gyp": "https://registry.npmjs.org/@sergeymr/node-gyp/-/node-gyp-6.0.1.tgz"
   },
   "config": {
     "commitizen": {
